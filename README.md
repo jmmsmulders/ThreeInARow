@@ -3,12 +3,10 @@
 This module makes it possible to play a game of three-in-a-row within a jupyter notebook
  
 ## Installation
-Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services.
-
-Clone the repo
-git clone (https://github.com/jmmsmulders/ThreeInARow)
-Install NPM packages
-pip install three_in_a_row
+You can download this package by pip installing the "three_in_a_row" package
+ ```
+ pip install three_in_a_row
+ ```
 
 ## Usage
 Once initiated the game can be started with the ".play()" function
