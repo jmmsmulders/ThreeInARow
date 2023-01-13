@@ -1,0 +1,10 @@
+README.md
+setup.cfg
+setup.py
+three_in_a_row/ThreeInARow.py
+three_in_a_row/__init__.py
+three_in_a_row.egg-info/PKG-INFO
+three_in_a_row.egg-info/SOURCES.txt
+three_in_a_row.egg-info/dependency_links.txt
+three_in_a_row.egg-info/not-zip-safe
+three_in_a_row.egg-info/top_level.txt
